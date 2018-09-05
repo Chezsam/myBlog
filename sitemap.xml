@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>https://chezsam.github.io/myblog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://chezsam.github.io/myblog/tags/code/</loc>
     <lastmod>2016-03-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -51,8 +56,19 @@
   </url>
   
   <url>
+    <loc>https://chezsam.github.io/myblog/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://chezsam.github.io/myblog/tags/photoswipe/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chezsam.github.io/myblog/post/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
