@@ -8,11 +8,22 @@
   </url>
   
   <url>
+    <loc>https://chezsam.github.io/myblog/post/2019-05-05-quadrant/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://chezsam.github.io/myblog/page/about/</loc>
   </url>
   
   <url>
     <loc>https://chezsam.github.io/myblog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chezsam.github.io/myblog/tags/game-development/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
