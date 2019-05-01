@@ -5,10 +5,20 @@
     <link>https://chezsam.github.io/myblog/post/</link>
     <description>Recent content in Posts on Sam&#39;s Journey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 05 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://chezsam.github.io/myblog/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quadrant</title>
+      <link>https://chezsam.github.io/myblog/post/2019-05-05-quadrant/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chezsam.github.io/myblog/post/2019-05-05-quadrant/</guid>
+      <description>Quadrant is the first game development project during my time at the University of Hull.
+Quadrant is a 4 player competitive board game, where each player takes it in turn to fill their Quadrant of the game board, what is represented by their colour. The aim is to be the first player to reach the score limit.</description>
+    </item>
     
     <item>
       <title>Hello World</title>
@@ -18,16 +28,6 @@
       <guid>https://chezsam.github.io/myblog/post/2018-09-05-hello-world/</guid>
       <description>Welcome to my first post.
 Stick around a bit, there&amp;rsquo;s lots more to come.</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://chezsam.github.io/myblog/post/2019-05-05-quadrant/</link>
-      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://chezsam.github.io/myblog/post/2019-05-05-quadrant/</guid>
-      <description>Quadrant is the first game development project during my time at the University of Hull.
-Quadrant is a 4 player competitive board game, where each player takes it in turn to fill their Quadrant of the game board, what is represented by their colour. The aim is to be the first player to reach the score limit.</description>
     </item>
     
   </channel>
